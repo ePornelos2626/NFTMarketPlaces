@@ -22,7 +22,7 @@ function NFTs()
                   <br/>
                   <br/>
                   <div class="footbar-btn pb-2">
-                    <a href="pipeline.html" class="footbar-button btn btn-lg rounded-pill" role="button">Discover More</a>
+                    <a href="../Exchange" class="footbar-button btn btn-lg rounded-pill" role="button">Exchange</a>
                   </div>
                 </div>
               </div>
@@ -55,7 +55,7 @@ function NFTs()
                     <br/>
                     <br/>
                     <div class="footbar-btn pb-2">
-                        <a href="people.html" class="footbar-button btn btn-lg rounded-pill" role="button">Learn More</a>
+                    <a href="../ButtonsInfo" class="footbar-button btn btn-lg rounded-pill" role="button">ButtonsInfo</a>
                       </div>
                     </p>
                 </div>
